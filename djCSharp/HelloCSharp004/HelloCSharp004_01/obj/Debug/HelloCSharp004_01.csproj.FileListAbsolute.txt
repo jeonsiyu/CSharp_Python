@@ -1,0 +1,7 @@
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\bin\Debug\HelloCSharp004_01.exe.config
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\bin\Debug\HelloCSharp004_01.exe
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\bin\Debug\HelloCSharp004_01.pdb
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\obj\Debug\HelloCSharp004_01.csproj.AssemblyReference.cache
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\obj\Debug\HelloCSharp004_01.csproj.CoreCompileInputs.cache
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\obj\Debug\HelloCSharp004_01.exe
+E:\djlee\djCSharp\HelloCSharp004\HelloCSharp004_01\obj\Debug\HelloCSharp004_01.pdb

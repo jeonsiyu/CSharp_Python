@@ -1,0 +1,21 @@
+제목: 서버에 연결
+------------------------------
+
+DESKTOP-GQ7115L에 연결할 수 없습니다.
+
+------------------------------
+추가 정보:
+
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) (Microsoft SQL Server, 오류: 2)
+
+도움말을 보려면 다음을 클릭하십시오: https://docs.microsoft.com/sql/relational-databases/errors-events/mssqlserver-2-database-engine-error
+
+------------------------------
+
+지정된 파일을 찾을 수 없습니다
+
+------------------------------
+단추:
+
+확인
+------------------------------

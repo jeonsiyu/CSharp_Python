@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\bin\Debug\0717_03_goto.exe.config
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\bin\Debug\0717_03_goto.exe
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\bin\Debug\0717_03_goto.pdb
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\obj\Debug\0717_03_goto.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\obj\Debug\0717_03_goto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\obj\Debug\0717_03_goto.exe
+C:\Users\User\source\repos\c#\0717\0717_03\0717_03_goto\obj\Debug\0717_03_goto.pdb

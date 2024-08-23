@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\_0730_03.Form1.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\_0730_03.Properties.Resources.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.csproj.GenerateResource.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_03\bin\Debug\0730_03.exe.config
+C:\Users\User\source\repos\c#\0730\0730\0730_03\bin\Debug\0730_03.exe
+C:\Users\User\source\repos\c#\0730\0730\0730_03\bin\Debug\0730_03.pdb
+C:\Users\User\source\repos\c#\0730\0730\0730_03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\c#\0730\0730\0730_03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.csproj.Up2Date
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.exe
+C:\Users\User\source\repos\c#\0730\0730\0730_03\obj\Debug\0730_03.pdb

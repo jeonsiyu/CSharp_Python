@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010_02\\lotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|solutionrelative:hellocsharp010_02\\lotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010_02\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|solutionrelative:hellocsharp010_02\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|c:\\users\\user\\source\\repos\\c#\\djcsharp\\hellocsharp010\\hellocsharp010_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|solutionrelative:hellocsharp010_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|c:\\users\\user\\source\\repos\\c#\\djcsharp\\hellocsharp010\\hellocsharp010_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|solutionrelative:hellocsharp010_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D114773-14B2-4E5E-9DE6-D05EDABAD23F}|HelloCSharp010_02\\HelloCSharp010_02.csproj|solutionrelative:hellocsharp010_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64449B9E-F874-46A5-AC3D-9FE58A2BCCDF}|HelloCSharp010_01\\HelloCSharp010_01.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64449B9E-F874-46A5-AC3D-9FE58A2BCCDF}|HelloCSharp010_01\\HelloCSharp010_01.csproj|solutionrelative:hellocsharp010_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA140B32-0007-4E5D-99EF-343D861521E8}|HelloCSharp010\\HelloCSharp010.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA140B32-0007-4E5D-99EF-343D861521E8}|HelloCSharp010\\HelloCSharp010.csproj|solutionrelative:hellocsharp010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA140B32-0007-4E5D-99EF-343D861521E8}|HelloCSharp010\\HelloCSharp010.csproj|C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\hellocsharp010\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA140B32-0007-4E5D-99EF-343D861521E8}|HelloCSharp010\\HelloCSharp010.csproj|solutionrelative:hellocsharp010\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_02\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Program.cs",
+              "RelativeToolTip": "HelloCSharp010_02\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T00:41:12.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lotto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Lotto.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_02\\Lotto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Lotto.cs",
+              "RelativeToolTip": "HelloCSharp010_02\\Lotto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:23:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Weather.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_02\\Weather.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Weather.cs",
+              "RelativeToolTip": "HelloCSharp010_02\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:45:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp010_02\\Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAzwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:45:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_02\\Form1.cs",
+              "ToolTip": "E:\\djlee\\djCSharp\\HelloCSharp010\\HelloCSharp010_02\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:44:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_01\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010_01\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010_01\\Program.cs",
+              "RelativeToolTip": "HelloCSharp010_01\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:39:13.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010\\Product.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010\\Product.cs",
+              "RelativeToolTip": "HelloCSharp010\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:18:56.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp010\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\djCSharp\\HelloCSharp010\\HelloCSharp010\\Program.cs",
+              "RelativeToolTip": "HelloCSharp010\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:43:28.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

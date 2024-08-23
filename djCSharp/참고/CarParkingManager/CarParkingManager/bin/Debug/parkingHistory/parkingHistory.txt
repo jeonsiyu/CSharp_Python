@@ -1,0 +1,97 @@
+[2024-07-29 오후 4:12:07]주차 버튼 테스트
+[2024-07-29 오후 4:12:11]주차 버튼 테스트
+[2024-07-29 오후 4:12:15]주차 버튼 테스트
+[2024-07-29 오후 4:16:50]주차 버튼 테스트
+[2024-07-29 오후 4:16:52]출차 버튼 테스트
+[2024-07-29 오후 4:16:53]주차 버튼 테스트
+[2024-07-29 오후 4:16:53]출차 버튼 테스트
+[2024-07-29 오후 4:16:54]출차 버튼 테스트
+[2024-07-30 오후 8:56:00]해당 공간이 이미 존재하여서 추가할 수 없습니다.
+[2024-07-30 오후 8:56:02]주차 공간 2 추가됨
+[2024-07-30 오후 8:56:09]주차 공간 1에 42너1234 차 출차
+[2024-07-30 오후 8:56:17]주차 공간 2에 bb차를 주차했습니다.
+[2024-07-30 오후 9:05:13]주차 공간 3 추가됨
+[2024-07-30 오후 9:05:16]주차 공간 2에 bb 차 출차
+[2024-07-30 오후 9:09:14]주차 공간 4 추가됨
+[2024-07-30 오후 9:09:20]주차 공간 1에 aa차를 주차했습니다.
+[2024-07-30 오후 9:09:25]주차 공간 3에 bb차를 주차했습니다.
+[2024-07-30 오후 9:09:29]주차 공간 4에 c차를 주차했습니다.
+[2024-07-30 오후 9:09:34]주차 공간 2에 ss차를 주차했습니다.
+[2024-07-30 오후 9:09:38]주차 공간 2에 ss 차 출차
+[2024-07-30 오후 9:09:40]주차 공간 3에 bb 차 출차
+[2024-07-30 오후 9:09:42]주차 공간 4에 c 차 출차
+[2024-07-30 오후 9:12:03]주차 공간 4 삭제됨
+[2024-07-30 오후 9:12:09]출차 불가능 4 없음
+[2024-07-30 오후 9:12:11]주차 공간 1에 aa 차 출차
+[2024-07-30 오후 9:12:16]주차 공간 2에 s차를 주차했습니다.
+select   위치: OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, OracleOpaqueString securedPassw, OracleOpaqueString securedProxyPassw, OracleConnection connRefForCriteria, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.OpenInternal(Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReaderInternal(Boolean requery, Boolean fillRequest, CommandBehavior behavior, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   위치: CarParkingManager.DBHelperOracle.selectQuery(Int32 parkingSpot) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 60
+select   위치: OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, OracleOpaqueString securedPassw, OracleOpaqueString securedProxyPassw, OracleConnection connRefForCriteria, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.OpenInternal(Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReaderInternal(Boolean requery, Boolean fillRequest, CommandBehavior behavior, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   위치: CarParkingManager.DBHelperOracle.selectQuery(Int32 parkingSpot) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 60
+select   위치: OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, OracleOpaqueString securedPassw, OracleOpaqueString securedProxyPassw, OracleConnection connRefForCriteria, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.OpenInternal(Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReaderInternal(Boolean requery, Boolean fillRequest, CommandBehavior behavior, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   위치: CarParkingManager.DBHelperOracle.selectQuery(Int32 parkingSpot) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 60
+select   위치: OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassw, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch, Boolean bAsync)
+   위치: OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, OracleOpaqueString securedPassw, OracleOpaqueString securedProxyPassw, OracleConnection connRefForCriteria, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.OpenInternal(Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleConnectionInternal.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReaderInternal(Boolean requery, Boolean fillRequest, CommandBehavior behavior, Boolean bAsync)
+   위치: Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   위치: CarParkingManager.DBHelperOracle.selectQuery(Int32 parkingSpot) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 60
+insert   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.executeQuery(Int32 parkingSpot, String cmd) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 134
+[2024-07-30 오후 9:18:20]주차 공간 1 추가됨
+insert   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.executeQuery(Int32 parkingSpot, String cmd) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 134
+[2024-07-30 오후 9:22:26]주차 공간 1 추가됨
+[2024-07-30 오후 9:24:04]주차 공간 1 추가됨
+update   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.updateQuery(ParkingCar parkingCar, Boolean isRemove) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 105
+[2024-07-30 오후 9:25:51]주차 공간 1에 bbcc차를 주차했습니다.
+[2024-07-30 오후 9:26:48]주차 공간 2 추가됨
+[2024-07-30 오후 9:26:51]주차 공간 3 추가됨
+[2024-07-30 오후 9:26:55]주차 공간 2 삭제됨
+[2024-07-30 오후 9:26:56]주차공간 2에 주차된 차는 없습니다!
+[2024-07-30 오후 9:27:13]주차 공간 1에 a 차 출차
+update   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.updateQuery(ParkingCar parkingCar, Boolean isRemove) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 104
+[2024-07-30 오후 9:29:08]주차 공간 1에 aa차를 주차했습니다.
+update   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.updateQuery(ParkingCar parkingCar, Boolean isRemove) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 104
+[2024-07-30 오후 9:30:12]주차 공간 1에 bb차를 주차했습니다.
+update   위치: OracleInternal.ServiceObjects.OracleFailoverMgrImpl.OnError(OracleConnection connection, CallHistoryRecord chr, Object mi, Exception ex, Boolean bTopLevelCall, Boolean& bCanRecordNewCall)
+   위치: Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   위치: CarParkingManager.DBHelperOracle.updateQuery(ParkingCar parkingCar, Boolean isRemove) 파일 E:\djlee\djCSharp\참고\CarParkingManager\CarParkingManager\DBHelperOracle.cs:줄 106
+[2024-07-30 오후 9:35:14]주차 공간 1에 aa차를 주차했습니다.
+[2024-07-30 오후 9:36:08]주차 공간 1에 bb차를 주차했습니다.

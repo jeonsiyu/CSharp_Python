@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\c#\0731\0731_01\0731\bin\Debug\0731.exe.config
+C:\Users\User\source\repos\c#\0731\0731_01\0731\bin\Debug\0731.exe
+C:\Users\User\source\repos\c#\0731\0731_01\0731\bin\Debug\0731.pdb
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\0731.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\_0731.Form1.resources
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\_0731.Properties.Resources.resources
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\0731.csproj.GenerateResource.cache
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\0731.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\0731.exe
+C:\Users\User\source\repos\c#\0731\0731_01\0731\obj\Debug\0731.pdb

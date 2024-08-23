@@ -1,0 +1,14 @@
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.Main.resources
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.Filter.resources
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.DataBaseSetting.resources
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.Properties.Resources.resources
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\bin\Debug\CsharpProject.exe.config
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\bin\Debug\CsharpProject.exe
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\bin\Debug\CsharpProject.pdb
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.exe
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.pdb
+C:\Users\KB\Desktop\csharp\CsharpProject\CsharpProject\obj\Debug\CsharpProject.Chart.resources

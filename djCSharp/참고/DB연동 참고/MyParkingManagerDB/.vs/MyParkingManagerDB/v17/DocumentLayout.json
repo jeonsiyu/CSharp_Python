@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54F2422-D705-48DC-97AC-9D80478CB9F7}|MyParkingManagerDB\\MyParkingManagerDB.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\myparkingmanagerdb\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54F2422-D705-48DC-97AC-9D80478CB9F7}|MyParkingManagerDB\\MyParkingManagerDB.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\\uCC38\uACE0\\db\uC5F0\uB3D9 \uCC38\uACE0\\myparkingmanagerdb\\myparkingmanagerdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54F2422-D705-48DC-97AC-9D80478CB9F7}|MyParkingManagerDB\\MyParkingManagerDB.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\myparkingmanagerdb\\parkingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54F2422-D705-48DC-97AC-9D80478CB9F7}|MyParkingManagerDB\\MyParkingManagerDB.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\myparkingmanagerdb\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54F2422-D705-48DC-97AC-9D80478CB9F7}|MyParkingManagerDB\\MyParkingManagerDB.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\myparkingmanagerdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\DataManager.cs",
+              "RelativeDocumentMoniker": "MyParkingManagerDB\\DataManager.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\DataManager.cs",
+              "RelativeToolTip": "MyParkingManagerDB\\DataManager.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAcwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:56:44.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\DBHelper.cs",
+              "RelativeDocumentMoniker": "MyParkingManagerDB\\DBHelper.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\DBHelper.cs",
+              "RelativeToolTip": "MyParkingManagerDB\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:56:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParkingCar.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\ParkingCar.cs",
+              "RelativeDocumentMoniker": "MyParkingManagerDB\\ParkingCar.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\ParkingCar.cs",
+              "RelativeToolTip": "MyParkingManagerDB\\ParkingCar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:29:41.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\Form1.cs",
+              "RelativeDocumentMoniker": "MyParkingManagerDB\\Form1.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\Form1.cs",
+              "RelativeToolTip": "MyParkingManagerDB\\Form1.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAcwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:14:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\\uCC38\uACE0\\DB\uC5F0\uB3D9 \uCC38\uACE0\\MyParkingManagerDB\\MyParkingManagerDB\\Form1.cs",
+              "RelativeDocumentMoniker": "MyParkingManagerDB\\Form1.cs",
+              "ToolTip": "D:\\djwork\\20231229_AI_13\\djCSharp2\\MyParkingManagerDB\\MyParkingManagerDB\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:52:29.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

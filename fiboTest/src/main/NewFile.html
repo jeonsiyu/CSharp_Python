@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	<button onclick="f1(50)">재귀</button>
+	<button onclick="f2(50)">객체</button>
+
+</body>
+<script>
+	let obj = {}
+	function fibo(n)
+	{
+		if(n<=0)
+			return 0
+		if(n<=2)
+			return 1
+		return fibo(n-2)+fibo(n-1)
+	}	
+	function fibo_obj(n)
+	{
+		if(n<=0)
+			return 0
+		if(n<=2)
+			return 1
+		if(obj[n] == undefined)
+		{
+			let v = fibo_obj(n-2)+fibo_obj(n-1)
+			obj[n] = v
+			return v
+		}
+		else
+			return obj[n]
+	}
+	function f1(n)
+	{
+		let value = fibo(n)
+		alert(value)
+	}
+	function f2(n)
+	{
+		let value = fibo_obj(n)
+		alert(value)
+	}
+</script>
+</html>

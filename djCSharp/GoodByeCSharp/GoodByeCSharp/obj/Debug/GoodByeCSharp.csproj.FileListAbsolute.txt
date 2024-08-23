@@ -1,0 +1,10 @@
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\bin\Debug\GoodByeCSharp.exe.config
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\bin\Debug\GoodByeCSharp.exe
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\bin\Debug\GoodByeCSharp.pdb
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.csproj.AssemblyReference.cache
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.Form1.resources
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.Properties.Resources.resources
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.csproj.GenerateResource.cache
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.csproj.CoreCompileInputs.cache
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.exe
+E:\djlee\djCSharp\GoodByeCSharp\GoodByeCSharp\obj\Debug\GoodByeCSharp.pdb

@@ -1,0 +1,10 @@
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\bin\Debug\HelloCSharp009_05.exe.config
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\bin\Debug\HelloCSharp009_05.exe
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\bin\Debug\HelloCSharp009_05.pdb
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.csproj.AssemblyReference.cache
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.Form1.resources
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.Properties.Resources.resources
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.csproj.GenerateResource.cache
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.csproj.CoreCompileInputs.cache
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.exe
+E:\djlee\djCSharp\HelloCSharp009\HelloCSharp009_05\obj\Debug\HelloCSharp009_05.pdb

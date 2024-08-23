@@ -1,0 +1,18 @@
+<books>
+	<book>
+		<isbn>123</isbn>
+		<name>쉽게 배우는 c#</name>
+		<userId></userId>
+		<userName></userName>
+		<isBorrowed>0</isBorrowed>
+		<borrowedAt>0001-01-01 오전 12:00:00</borrowedAt>
+	</book>
+	<book>
+		<isbn>248</isbn>
+		<name>oracle</name>
+		<userId></userId>
+		<userName></userName>
+		<isBorrowed>0</isBorrowed>
+		<borrowedAt>0001-01-01 오전 12:00:00</borrowedAt>
+	</book>
+</books>

@@ -1,0 +1,225 @@
+[2022-12-12 04:50:21.608]문자열이 유효한 DateTime으로 인식되지 않습니다.
+[2022-12-12 04:50:21.663]   위치: System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   위치: System.DateTime.Parse(String s)
+   위치: PartWorkQualityManager.JsonManager.Load(Dictionary`2 data) 파일 D:\Github\AI_BigData\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\DataManager\JsonManager.cs:줄 119
+[2022-12-12 04:52:49.721]문자열이 유효한 DateTime으로 인식되지 않습니다.
+[2022-12-12 04:52:49.721]   위치: System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   위치: System.DateTime.Parse(String s)
+   위치: PartWorkQualityManager.JsonManager.Load(Dictionary`2 data) 파일 D:\Github\AI_BigData\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\DataManager\JsonManager.cs:줄 119
+[2022-12-12 04:53:19.238]문자열이 유효한 DateTime으로 인식되지 않습니다.
+[2022-12-12 04:53:19.238]   위치: System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   위치: System.DateTime.Parse(String s)
+   위치: PartWorkQualityManager.JsonManager.Load(Dictionary`2 data) 파일 D:\Github\AI_BigData\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\DataManager\JsonManager.cs:줄 119
+[2022-12-12 05:09:48.296]ExecuteNonQuery: CommandText 속성이 초기화되지 않았습니다.
+[2022-12-12 05:09:48.326]   위치: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PartWorkQualityManager.FileImageDBHelper.executeQuery(String command, String[] columns, Dictionary`2 data) 파일 D:\Github\AI_BigData\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\DB\FileImageDBHelper.cs:줄 105
+[2022-12-12 05:09:48.352]쿼리 실패
+[2022-12-12 05:13:48.893]이미지 로드 실패
+[2022-12-12 05:13:48.893]시퀀스에 일치하는 요소가 없습니다.
+[2022-12-12 05:13:48.908]   위치: System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: PartWorkQualityManager.Forms.QualityDataForm..ctor(QualityManager q) 파일 D:\Github\AI_BigData\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\ViewForms\QualityDataForm.cs:줄 86
+[2022-12-12 14:59:31.921]이미지 로드 실패
+[2022-12-12 14:59:31.933]시퀀스에 일치하는 요소가 없습니다.
+[2022-12-12 14:59:32.425]   위치: System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: PartWorkQualityManager.Forms.QualityDataForm..ctor(QualityManager q) 파일 D:\study\Xenoint_AI\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\ViewForms\QualityDataForm.cs:줄 86
+[2022-12-12 15:01:18.352]이미지 로드 실패
+[2022-12-12 15:01:18.352]시퀀스에 일치하는 요소가 없습니다.
+[2022-12-12 15:01:18.352]   위치: System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: PartWorkQualityManager.Forms.QualityDataForm..ctor(QualityManager q) 파일 D:\study\Xenoint_AI\AI_7차반\PartWorkQualityManager\PartWorkQualityManager\ViewForms\QualityDataForm.cs:줄 86
+[2024-06-11 12:06:36.213]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:36.229]   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.QualityDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\QualityDBHelper.cs:줄 97
+[2024-06-11 12:06:36.244]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:36.244]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.FileImageDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\FileImageDBHelper.cs:줄 41
+[2024-06-11 12:06:36.244]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:36.244]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.CategoryDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\CategoryDBHelper.cs:줄 42
+[2024-06-11 12:06:36.260]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:36.260]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartDBHelper.cs:줄 42
+[2024-06-11 12:06:36.260]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:36.260]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartWorkDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartWorkDBHelper.cs:줄 36
+[2024-06-11 12:06:51.061]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:51.063]   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.QualityDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\QualityDBHelper.cs:줄 97
+[2024-06-11 12:06:51.063]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:51.063]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.FileImageDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\FileImageDBHelper.cs:줄 41
+[2024-06-11 12:06:51.078]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:51.078]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.CategoryDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\CategoryDBHelper.cs:줄 42
+[2024-06-11 12:06:51.078]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:51.078]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartDBHelper.cs:줄 42
+[2024-06-11 12:06:51.094]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:06:51.094]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartWorkDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartWorkDBHelper.cs:줄 36
+[2024-06-11 12:07:16.195]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:07:16.210]   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.QualityDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\QualityDBHelper.cs:줄 97
+[2024-06-11 12:07:16.210]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:07:16.210]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.FileImageDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\FileImageDBHelper.cs:줄 41
+[2024-06-11 12:07:16.210]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:07:16.210]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.CategoryDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\CategoryDBHelper.cs:줄 42
+[2024-06-11 12:07:16.210]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:07:16.210]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartDBHelper.cs:줄 42
+[2024-06-11 12:07:16.210]로그인에서 요청한 데이터베이스 "FactoryBigDataDB"을(를) 열 수 없습니다. 로그인이 실패했습니다.
+사용자 'DESKTOP-CFBQK0D\KB'이(가) 로그인하지 못했습니다.
+[2024-06-11 12:07:16.210]   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PartWorkQualityManager.DBHelper.ConnectDB() 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\DBHelper.cs:줄 27
+   위치: PartWorkQualityManager.PartWorkDBHelper.selectQuery(String pk) 파일 \\192.168.0.135\sharework\240611 C# 팀프 공유폴더\참고\PartWorkQualityManager\PartWorkQualityManager\DB\PartWorkDBHelper.cs:줄 36

@@ -1,0 +1,10 @@
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.exe.config
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.exe
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.pdb
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.AssemblyReference.cache
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.MainForm.resources
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.Properties.Resources.resources
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.GenerateResource.cache
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.CoreCompileInputs.cache
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.exe
+E:\djlee\djCSharp\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.pdb

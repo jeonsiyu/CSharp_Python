@@ -1,0 +1,636 @@
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.OutMember.resources
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\C#\Project\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\C#\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\project\Project - 복사본\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\6\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\dd\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.OutMember.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\dd\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.OutMember.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\project - 복사본 - 복사본\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Home.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Login.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Managers.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.NContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Notice.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.NPost.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Home.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Login.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Managers.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.NContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Notice.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.NPost.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\15 - 복사본\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Home.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Login.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Managers.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.NContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Notice.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.NPost.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16 - 복사본\Project\obj\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Project.exe.config
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Project.pdb
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Buffers.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Memory.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Text.Json.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Buffers.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Memory.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Text.Json.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Home.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Login.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Main.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Managers.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Member.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.NContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.NewMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Notice.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.NPost.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.OutMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.QContent.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.Question.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.exe
+C:\Users\ojinm\Desktop\웹 프로젝트\C#\16\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Home.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Managers.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.OutMember.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\ㅇㅇ\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Home.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Managers.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.Home.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.Managers.resources
+C:\Users\User\Desktop\project\project - 복사본\Project\obj\Debug\Project.Form1.resources
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\project\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\project\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Home.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Managers.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.ManagerNotice.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.MNPost.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.MNContent.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.calender.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.MemoForm.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.ScheduleCheckForm.resources
+C:\Users\User\Desktop\project\project\Project\obj\Debug\Project.UcDay.resources
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\project\project (2)\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.calender.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Home.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.ManagerNotice.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Managers.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Member.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.MemoForm.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.MNContent.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.MNPost.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.NContent.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.NewMember.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Notice.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.NPost.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.QContent.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.Question.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.ScheduleCheckForm.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.TotalMember.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.UcDay.resources
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\project\project (2)\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.calender.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.ManagerNotice.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.MemoForm.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.MNContent.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.MNPost.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.ScheduleCheckForm.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.UcDay.resources

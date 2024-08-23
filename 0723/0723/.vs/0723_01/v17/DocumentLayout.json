@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|solutionrelative:0723_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|solutionrelative:0723_05\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|c:\\users\\user\\source\\repos\\c#\\0723\\0723\\0723_04\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|solutionrelative:0723_04\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|solutionrelative:0723_04\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839BF69-246A-4CD4-A43A-FE13DD8AA2FC}|0723_04\\0723_04.csproj|solutionrelative:0723_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\lolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE78949-D126-484E-A6B9-2B1B64F95244}|0723_05\\0723_05.csproj|solutionrelative:0723_05\\lolaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C0D140-5E87-4A34-A754-37E5C339D633}|0723_03\\0723_03.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C0D140-5E87-4A34-A754-37E5C339D633}|0723_03\\0723_03.csproj|solutionrelative:0723_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C0D140-5E87-4A34-A754-37E5C339D633}|0723_03\\0723_03.csproj|C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3C0D140-5E87-4A34-A754-37E5C339D633}|0723_03\\0723_03.csproj|solutionrelative:0723_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Student.cs",
+              "RelativeDocumentMoniker": "0723_04\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Student.cs",
+              "RelativeToolTip": "0723_04\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:35:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\Form1.cs",
+              "RelativeDocumentMoniker": "0723_03\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\Form1.cs",
+              "RelativeToolTip": "0723_03\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:29:27.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Teacher.cs",
+              "RelativeDocumentMoniker": "0723_04\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Teacher.cs",
+              "RelativeToolTip": "0723_04\\Teacher.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:41:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\BankAccount.cs",
+              "RelativeDocumentMoniker": "0723_05\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\BankAccount.cs",
+              "RelativeToolTip": "0723_05\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:37:20.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\Program.cs",
+              "RelativeDocumentMoniker": "0723_05\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\Program.cs",
+              "RelativeToolTip": "0723_05\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:27:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Program.cs",
+              "RelativeDocumentMoniker": "0723_04\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_04\\Program.cs",
+              "RelativeToolTip": "0723_04\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:32:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoLAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\LoLAccount.cs",
+              "RelativeDocumentMoniker": "0723_05\\LoLAccount.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_05\\LoLAccount.cs",
+              "RelativeToolTip": "0723_05\\LoLAccount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:25:13.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\Form1.cs",
+              "RelativeDocumentMoniker": "0723_03\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\0723\\0723\\0723_03\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "0723_03\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:29:03.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8751BEE8-C4B8-45C7-96F1-4066B8ECC28B}|HelloCSharp008_03\\HelloCSharp008_03.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp008\\hellocsharp008_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751BEE8-C4B8-45C7-96F1-4066B8ECC28B}|HelloCSharp008_03\\HelloCSharp008_03.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp008\\hellocsharp008_03\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751BEE8-C4B8-45C7-96F1-4066B8ECC28B}|HelloCSharp008_03\\HelloCSharp008_03.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp008\\hellocsharp008_03\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751BEE8-C4B8-45C7-96F1-4066B8ECC28B}|HelloCSharp008_03\\HelloCSharp008_03.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp008\\hellocsharp008_03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE49FDAF-065C-4A8B-8A8C-B5D7F3AE539A}|HelloCSharp008_04\\HelloCSharp008_04.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\hellocsharp008_04\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE49FDAF-065C-4A8B-8A8C-B5D7F3AE539A}|HelloCSharp008_04\\HelloCSharp008_04.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\hellocsharp008_04\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE49FDAF-065C-4A8B-8A8C-B5D7F3AE539A}|HelloCSharp008_04\\HelloCSharp008_04.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\hellocsharp008_04\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE49FDAF-065C-4A8B-8A8C-B5D7F3AE539A}|HelloCSharp008_04\\HelloCSharp008_04.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp008\\hellocsharp008_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827123D8-3355-4F91-A0A7-5E383D3FB932}|HelloCSharp008_01\\HelloCSharp008_01.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\hellocsharp008_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827123D8-3355-4F91-A0A7-5E383D3FB932}|HelloCSharp008_01\\HelloCSharp008_01.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\hellocsharp008_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Dog.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_03\\Dog.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Dog.cs",
+              "RelativeToolTip": "HelloCSharp008_03\\Dog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:37:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Cat.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_03\\Cat.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Cat.cs",
+              "RelativeToolTip": "HelloCSharp008_03\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:37:16.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Animal.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_03\\Animal.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Animal.cs",
+              "RelativeToolTip": "HelloCSharp008_03\\Animal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:36:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_03\\Program.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_03\\Program.cs",
+              "RelativeToolTip": "HelloCSharp008_03\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:36:15.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_04\\Program.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Program.cs",
+              "RelativeToolTip": "HelloCSharp008_04\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:16:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Dog.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_04\\Dog.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Dog.cs",
+              "RelativeToolTip": "HelloCSharp008_04\\Dog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:15:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Cat.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_04\\Cat.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Cat.cs",
+              "RelativeToolTip": "HelloCSharp008_04\\Cat.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:12:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_01\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_01\\Form1.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_01\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp008_01\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:18:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Animal.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_04\\Animal.cs",
+              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_04\\Animal.cs",
+              "RelativeToolTip": "HelloCSharp008_04\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:09:11.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_01\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp008_01\\Form1.cs",
+              "ToolTip": "E:\\djlee\\djCSharp\\HelloCSharp008\\HelloCSharp008_01\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:18:07.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

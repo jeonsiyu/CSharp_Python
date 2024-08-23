@@ -1,0 +1,13 @@
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\bin\Debug\HelloCSharp010_02.exe.config
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\bin\Debug\HelloCSharp010_02.exe
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\bin\Debug\HelloCSharp010_02.pdb
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.csproj.AssemblyReference.cache
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.Form1.resources
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.Properties.Resources.resources
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.csproj.GenerateResource.cache
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.csproj.CoreCompileInputs.cache
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.exe
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSharp010_02.pdb
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\bin\Debug\Newtonsoft.Json.dll
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\bin\Debug\Newtonsoft.Json.xml
+E:\djlee\djCSharp\HelloCSharp010\HelloCSharp010_02\obj\Debug\HelloCSh.EBAD4F46.Up2Date

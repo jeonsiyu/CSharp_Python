@@ -1,0 +1,10 @@
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\bin\Debug\WindowsFormsApp1.exe.config
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\bin\Debug\WindowsFormsApp1.exe
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\bin\Debug\WindowsFormsApp1.pdb
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.exe
+D:\djwork\20231229_AI_13\djCSharp\참고\보물찾기게임 참고 소스\obj\Debug\WindowsFormsApp1.pdb

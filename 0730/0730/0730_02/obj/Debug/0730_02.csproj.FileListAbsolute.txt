@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\c#\0730\0730\0730_02\bin\Debug\0730_02.exe.config
+C:\Users\User\source\repos\c#\0730\0730\0730_02\bin\Debug\0730_02.exe
+C:\Users\User\source\repos\c#\0730\0730\0730_02\bin\Debug\0730_02.pdb
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\0730_02.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\_0730_02.Form1.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\_0730_02.Form2.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\_0730_02.Form3.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\_0730_02.Form4.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\_0730_02.Properties.Resources.resources
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\0730_02.csproj.GenerateResource.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\0730_02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\0730_02.exe
+C:\Users\User\source\repos\c#\0730\0730\0730_02\obj\Debug\0730_02.pdb

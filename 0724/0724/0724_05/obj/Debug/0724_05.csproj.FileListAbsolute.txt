@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\c#\0724\0724\0724_05\bin\Debug\0724_05.exe.config
+C:\Users\User\source\repos\c#\0724\0724\0724_05\bin\Debug\0724_05.exe
+C:\Users\User\source\repos\c#\0724\0724\0724_05\bin\Debug\0724_05.pdb
+C:\Users\User\source\repos\c#\0724\0724\0724_05\obj\Debug\0724_05.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\c#\0724\0724\0724_05\obj\Debug\0724_05.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\c#\0724\0724\0724_05\obj\Debug\0724_05.exe
+C:\Users\User\source\repos\c#\0724\0724\0724_05\obj\Debug\0724_05.pdb

@@ -1,0 +1,26 @@
+import requests,json,urllib.request
+from flask import Flask, request,jsonify,abort
+import sys
+application = Flask(__name__) #초기화
+
+@application.route("/chat_kakao", methods=['POST']) #경로가 /일 경우 실행하는 메서드
+def kakaoHello():
+	body=request.get_json()
+	mymsg = body['userRequest']['utterance']
+	responseMsg = {
+		'version':'2.0',
+		'template':{
+			'outputs' :[
+				{
+					'simpleText' : {
+						'text' : f'''당신의 메시지 : {mymsg}'''
+					}
+				}
+			]
+		}
+	}
+	return responseMsg
+
+
+if __name__ == "__main__": #__name__값이 main이라면
+    application.run(host='0.0.0.0', port=80)

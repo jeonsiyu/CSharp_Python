@@ -1,0 +1,11 @@
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\bin\Debug\chart_test.exe.config
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\bin\Debug\chart_test.exe
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\bin\Debug\chart_test.pdb
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.csproj.AssemblyReference.cache
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.Properties.Resources.resources
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.csproj.GenerateResource.cache
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.csproj.CoreCompileInputs.cache
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.exe
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.pdb
+D:\GitHub\netflix-data-analysis\Netflix_Analyzer\chart_test\obj\Debug\chart_test.Chart.resources

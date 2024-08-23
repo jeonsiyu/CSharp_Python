@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\djlee\\djCSharp\\HelloCSharp001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA9F24D-2D55-40C6-A97D-1D993DD033F8}|HelloCSharp001\\HelloCSharp001.csproj|e:\\djlee\\djcsharp\\hellocsharp001\\hellocsharp001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA9F24D-2D55-40C6-A97D-1D993DD033F8}|HelloCSharp001\\HelloCSharp001.csproj|solutionrelative:hellocsharp001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\djlee\\djCSharp\\HelloCSharp001\\HelloCSharp001\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp001\\Program.cs",
+              "ToolTip": "E:\\djlee\\djCSharp\\HelloCSharp001\\HelloCSharp001\\Program.cs",
+              "RelativeToolTip": "HelloCSharp001\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:21:56.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
